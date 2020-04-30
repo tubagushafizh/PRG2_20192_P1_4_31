@@ -1,0 +1,7 @@
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\obj\Debug\PRG2_20192_P1_4_31.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\obj\Debug\PRG2_20192_P1_4_31.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\bin\Debug\PRG2_20192_P1_4_31.exe.config
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\bin\Debug\PRG2_20192_P1_4_31.exe
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\bin\Debug\PRG2_20192_P1_4_31.pdb
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\obj\Debug\PRG2_20192_P1_4_31.exe
+D:\Tugas\Semester 2\PRG2\PRG2_20192_P1_4_31\PRG2_20192_P1_4_31\obj\Debug\PRG2_20192_P1_4_31.pdb
